@@ -4,7 +4,7 @@ A simple Dash + Flask dashboard that visualizes COVID-19 data for India using th
 
 ---
 ![Dashboard Preview](images/1.png)
-![Dashboard Preview](assets/2.png)
+![Dashboard Preview](images/2.png)
 
 
 ## Contents
