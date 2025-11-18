@@ -3,6 +3,9 @@
 A simple Dash + Flask dashboard that visualizes COVID-19 data for India using the CSV datasets in this repository. This README documents how to set up the development environment, common troubleshooting steps (derived from the environment issues encountered), and how to run and deploy the app.
 
 ---
+![Dashboard Preview](images/1.png)
+![Dashboard Preview](assets/2.png)
+
 
 ## Contents
 
